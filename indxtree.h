@@ -1,15 +1,6 @@
 #include <compare>
 #include <memory>
 
-//template<class Key>
-//struct node {
-//    Key key;
-//    node *left;
-//    node *right;
-//    node *parent;
-//    size_t size;
-//};
-
 template<class Key>
 class indxtree {
 private:
